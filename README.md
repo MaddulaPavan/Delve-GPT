@@ -16,4 +16,6 @@ AI-powered chatbot designed to assist you with various tasks and provide informa
 
 -> Telegram Integration: Access DelveGPT directly from Telegram for seamless communication.
 
-## Note: This project was created purely for practice and learning purposes, with no intention of commercial use or profit.
+## Note
+
+This project was created purely for practice and learning purposes, with no intention of commercial use or profit.
