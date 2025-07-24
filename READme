@@ -1,36 +1,19 @@
-Welcome to DelveGPT, your friendly AI-powered chatbot designed to assist you with various tasks and provide information. DelveGPT is built using Node.js, the Telegram Bot API, and OpenAI's powerful GPT-3.5 model.
+## DelveGPT - Chatbot
+
+Friendly AI-powered chatbot designed to assist you with various tasks and provide information. DelveGPT is built using Node.js, the Telegram Bot API, and OpenAI's powerful GPT-3.5 model.
 
 ## Uses
-DelveGPT can be used for:
-- **Information Retrieval:** Ask DelveGPT questions to get quick and relevant information on various topics.
-- **Conversational Assistance:** Engage in natural language conversations with DelveGPT for entertainment or assistance with tasks.
-- **Learning and Experimentation:** Use DelveGPT to explore the capabilities of AI-powered chatbots and practice building conversational interfaces.
+-> Information Retrieval: Ask DelveGPT questions to get quick and relevant information on various topics.
 
-## Features
-- **Interactive Chat:** Engage in conversation with DelveGPT to get information and assistance.
-- **Powered by GPT-3.5:** DelveGPT leverages OpenAI's state-of-the-art GPT-3.5 model for generating responses.
-- **Telegram Integration:** Access DelveGPT directly from Telegram for seamless communication.
+-> Conversational Assistance: Engage in natural language conversations with DelveGPT for entertainment or assistance with tasks.
 
-Getting Started
-To start using DelveGPT, follow these simple steps:
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies using `npm install`.
-3. Set up your Telegram bot token and OpenAI API key.
-4. Run the bot using `node bot.js`.
+-> Learning and Experimentation: Use DelveGPT to explore the capabilities of AI-powered chatbots and practice building conversational interfaces.
 
-## Usage
-Once the bot is up and running, you can interact with DelveGPT by sending messages on Telegram. Here are some sample commands to get you started:
-- **Ask for Information:** Type any question or query, and DelveGPT will provide relevant information.
-- **Engage in Conversation:** Initiate a conversation with DelveGPT and explore its capabilities.
-- **Get Assistance:** If you need help or have any questions, feel free to ask DelveGPT.
+## Features & Tech Stack
+-> Interactive Chat: Engage in conversation with DelveGPT to get information and assistance.
 
-## Support
-If you encounter any issues or have suggestions for improvement, please feel free to open an issue on GitHub or reach out to pavanmaddula44@gmail.com
+-> Powered by GPT-3.5: DelveGPT leverages OpenAI's state-of-the-art GPT-3.5 model for generating responses.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to DelveGPT, please fork the repository and submit a pull request with your changes.
+-> Telegram Integration: Access DelveGPT directly from Telegram for seamless communication.
 
-
-🚀 Happy chatting with DelveGPT!
-
-Note: This project was created purely for practice and learning purposes, with no intention of commercial use or profit.
+## Note: This project was created purely for practice and learning purposes, with no intention of commercial use or profit.
