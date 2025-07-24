@@ -1,6 +1,6 @@
-## DelveGPT - Chatbot
+# DelveGPT 
 
-Friendly AI-powered chatbot designed to assist you with various tasks and provide information. DelveGPT is built using Node.js, the Telegram Bot API, and OpenAI's powerful GPT-3.5 model.
+AI-powered chatbot designed to assist you with various tasks and provide information. DelveGPT is built using Node.js, the Telegram Bot API, and OpenAI's powerful GPT-3.5 model.
 
 ## Uses
 -> Information Retrieval: Ask DelveGPT questions to get quick and relevant information on various topics.
